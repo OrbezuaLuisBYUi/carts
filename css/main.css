@@ -1,0 +1,11 @@
+.margin{
+    margin: 55px;
+}
+.descriptionProduct{
+    text-align: center;
+    border: 1px solid green;
+}
+.textdecoration{
+    text-decoration: none;
+    color: white;
+}
